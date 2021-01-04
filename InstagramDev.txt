@@ -13,3 +13,7 @@ Author : Arivazhagan A
 5. Attachments(Image, Audio, Video, etc)
 
 6. Last Seen Code
+
+Adding the audio call feature
+
+Adding the video call feature
