@@ -1,0 +1,13 @@
+This is Instagram Code:
+
+Author : Arivazhagan A
+
+1. Profile Page Code
+
+2. NewsFeed Page Code
+
+3. Chat Screen Code
+
+4. Status Page Code
+
+5. Attachments(Image, Audio, Video, etc)
